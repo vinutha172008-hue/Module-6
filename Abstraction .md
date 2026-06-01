@@ -4,7 +4,6 @@
 
 To create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle`.
 
----
 
 ## 🧠 ALGORITHM
 
@@ -26,10 +25,14 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
    - Instantiate `Rectangle` and `Circle`.
    - Call their `calculate_area()` methods.
 
----
 
 ## 💻 Program
+<img width="582" height="509" alt="Screenshot 2026-06-01 142000" src="https://github.com/user-attachments/assets/c51cdba3-1021-4fe4-a75c-07e15cf9fe1d" />
+
 
 ## Output
+<img width="360" height="174" alt="Screenshot 2026-06-01 142014" src="https://github.com/user-attachments/assets/118d7d14-592d-4ed1-9b0a-a436316893d2" />
+
 
 ## Result
+The execution of the program was successfully done.
